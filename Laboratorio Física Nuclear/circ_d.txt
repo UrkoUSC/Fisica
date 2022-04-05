@@ -1,6 +1,0 @@
-%cuentas tiempo[s] circunferencia_derecha
-8842 60
-8972 60
-8844 60
-8816 60
-8789 60
