@@ -1,6 +1,0 @@
-%cuentas tiempo[s] circunferencia_izquierda
-1865 10
-1910 10
-1945 10
-1886 10
-1831 10
