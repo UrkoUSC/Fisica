@@ -1,6 +1,0 @@
-%cuentas tiempo[s] circunferencia_completa
-3162 10
-3038 10
-3054 10
-3012 10
-3061 10
