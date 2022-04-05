@@ -1,0 +1,2 @@
+%cuentas tiempo[s] radiacion_de_fondo
+670 1800.59
